@@ -1,0 +1,38 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/02-exodo/c/0/i/22910857/capitulo-31",
+    "archivo": "exodo_31.json",
+    "libro": "ÉXODO",
+    "secciones": ["Viejo Pacto"],
+    "capitulo": "31",
+    "versiculos": [
+        {"01": "Habló YHVH a Moisés diciendo:"},
+        {"02": "He aquí Yo he llamado por nombre a Bezaleel ben Uri, hijo de Hur, de la tribu de Judá."},
+        {"03": "Lo he llenado con un espíritu divino en cuanto a sabiduría, inteligencia y ciencia, para toda clase de obra artística,"},
+        {"04": "para idear diseños, para trabajar el oro y la plata y el bronce, y el jacinto y la púrpura y el granate hilado y el lino rehilado;"},
+        {"05": "para grabar piedras de engaste, y entallar madera, para realizar toda clase de oficio."},
+        {"06": "Y Yo he puesto junto a él a Eliab ben Ahisamac, de la tribu de Dan, y en el corazón de todo hábil artesano he puesto inteligencia, para que ellos hagan todo lo que te he ordenado:"},
+        {"07": "La tienda de reunión, el arca del testimonio, el propiciatorio que está sobre ella y todos los utensilios de la tienda;"},
+        {"08": "la mesa y sus utensilios, el candelabro puro con todos sus utensilios,"},
+        {"09": "la fuente y su base,"},
+        {"10": "las vestiduras de servicio para Aarón, y las vestiduras de sus hijos para ejercer el sacerdocio,"},
+        {"11": "el aceite de la unción y el incienso compuesto para el lugar santo. Lo harán conforme a todo lo que te he ordenado."},
+        {"12": "Y habló YHVH a Moisés, diciendo:"},
+        {"13": "Y tú, habla a los hijos de Israel, diciendo: De cierto guardaréis mis sábados. Es señal entre Yo y vosotros por vuestras generaciones, para que sepáis que Yo soy YHVH, quien os santifica."},
+        {"14": "Guardaréis el shabbat, porque es santo para vosotros. El que lo profane ciertamente será muerto. Todo el que haga en él obra alguna, esa persona será cortada de en medio de su pueblo."},
+        {"15": "Seis días se trabajará, pero el día séptimo será shabbat solemne, santo para YHVH; todo el que trabaje en el día del shabbat, será muerto."},
+        {"16": "Los hijos de Israel guardarán, pues, el shabbat, a fin de celebrar el shabbat en sus generaciones por pacto perpetuo."},
+        {"17": "Es una señal entre Yo y los hijos de Israel para siempre, porque en seis días hizo YHVH los cielos y la tierra, mas en el séptimo día cesó y reposó."},
+        {"18": "Y cuando acabó de hablar con él en el monte Sinai, dio a Moisés las dos tablas del testimonio, las tablas de piedra escritas por el dedo de Elohim."}
+    ],
+    "notas": [
+        {"►31.2": "Bezaleel...Esto es,en la sombra de Dios."},
+        {"►31.4": "TM omitey el jacinto y la púrpura y el granate hilado y el lino rehilado.Se sigue LXX."},
+        {"►31.6": "Y Yo...TM añadehe aquí.Se sigue LXX→§194;Eliab...Esto es,la tienda del padre;hábil artesano...Lit.sabio de corazón."},
+        {"►31.8-9": "con todos sus utensilios...TM añadey el altar del incienso [9] y el altar del holocausto, con todos sus utensilios.Se sigue LXX→§194."},
+        {"►31.10": "de servicio para Aarón...TM añadelas vestiduras sagradas para el sacerdote.Se sigue LXX→§194."},
+        {"►31.13": "sábados...Heb.shabbatot. TM añadeporque.Se sigue LXX→§194."},
+        {"►31.14": "será muerto...TM añadeporque.Se sigue LXX→§194."},
+        {"►31.15": "shabbat solemne...Lit.shabbat shabbatot. Superlativo,shabbat de los shabbats, es decir,shabbat muy solemne→Ex 20.8-11; 23.12; 34.21; 35.2; Lv 23.3; Dt 5.12-14."},
+        {"►31.16": "a fin de celebrar...Lit.para hacer."}
+    ]
+}
