@@ -1,0 +1,30 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/05-deuteronomio/c/0/i/23033628/capitulo-34",
+    "archivo": "deuteronomio_34.json",
+    "libro": "DEUTERONOMIO",
+    "secciones": ["Viejo Pacto"],
+    "capitulo": "34",
+    "versiculos": [
+        {"01": "Después Moisés subió de la llanura de Moab al monte Nebo, a la cumbre del Pisga, que está frente a Jericó, y YHVH le hizo ver toda la tierra, desde Galaad hasta Dan,"},
+        {"02": "y todo Neftalí, y la tierra de Efraín y de Manasés, y toda la tierra de Judá, hasta el mar Occidental,"},
+        {"03": "y el Néguev, y la región de Jericó (la ciudad de las palmeras) hasta Zoar."},
+        {"04": "Y le dijo YHVH: Esta es la tierra de la cual juré a Abraham, a Isaac y a Jacob, diciendo: A tu simiente la daré. Te he permitido verla con tus ojos, pero allá no pasarás."},
+        {"05": "Y Moisés, esclavo de YHVH, murió en tierra de Moab, según el dicho de YHVH."},
+        {"06": "Y lo sepultó en el valle, en la tierra de Moab, frente a Bet-Peor. Y no ha sabido hombre alguno el lugar de su sepulcro hasta el día de hoy."},
+        {"07": "Y era Moisés de ciento veinte años cuando murió. Sus ojos nunca fueron oscurecidos ni debilitado su vigor."},
+        {"08": "Y los hijos de Israel lloraron a Moisés en los llanos de Moab durante treinta días. Así fueron cumplidos los días del llanto como duelo por Moisés."},
+        {"09": "Y Josué ben Nun fue lleno del espíritu de sabiduría, pues Moisés había impuesto sus manos sobre él; y los hijos de Israel le obedecieron e hicieron tal como YHVH había ordenado a Moisés."},
+        {"10": "Pero no se ha levantado aún otro profeta en Israel semejante a Moisés, a quien YHVH trataba cara a cara,"},
+        {"11": "ya en razón de todas las señales y prodigios que YHVH lo envió a hacer en el país de Egipto con respecto a Faraón, a todos sus siervos y a toda su tierra,"},
+        {"12": "ya en razón de toda aquella mano poderosa y de grandes portentos que hizo Moisés en presencia de todo Israel."}
+    ],
+    "notas": [
+        {"\u25ba34.3": "región...TM añade valle. Se sigue LXX→§194."},
+        {"\u25ba34.4": "a Abraham, a Isaac y a Jacob...→Gn 12.7; 26.3; 28.13 respectivamente."},
+        {"\u25ba34.5": "murió...TM añade allí. Se sigue LXX→§194."},
+        {"\u25ba34.6": "lo sepultó...Esto es, Dios."},
+        {"\u25ba34.7": "de...TM añade edad (hijo de). Se sigue LXX→§194."},
+        {"\u25ba34.10": "aún...→Dt 18.15,18; cara a cara...→Ex 33.11."},
+        {"\u25ba34.12": "y de...TM añade todos. Se sigue LXX→§194."}
+    ]
+}
