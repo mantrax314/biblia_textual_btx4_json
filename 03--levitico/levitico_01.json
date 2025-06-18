@@ -1,0 +1,34 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/03-levitico/c/0/i/22931911/capitulo-01",
+    "archivo": "levitico_01.json",
+    "libro": "LEVÍTICO",
+    "secciones": ["Viejo Pacto"],
+    "capitulo": "01",
+    "versiculos": [
+        {"01": "Y llamando YHVH a Moisés, le habló desde la tienda de reunión, diciendo:"},
+        {"02": "Habla a los hijos de Israel y diles: Cuando alguno de vosotros traiga una ofrenda a YHVH, ofreceréis vuestra víctima de animales del ganado o del rebaño."},
+        {"03": "Si su ofrenda es un holocausto del ganado, ofrecerá un macho sin defecto. Lo traerá a la entrada de la tienda de reunión, para que sea acepto en favor suyo ante YHVH."},
+        {"04": "Apoyará su mano sobre la cabeza de la víctima, y le será acepta para hacer expiación por él."},
+        {"05": "Luego deberá degollar el becerro ante YHVH, y los hijos de Aarón, los sacerdotes, ofrecerán la sangre y rociarán la sangre alrededor sobre el altar situado a la entrada de la tienda de reunión."},
+        {"06": "Desollará la víctima y la partirá en trozos,"},
+        {"07": "y los hijos de Aarón, los sacerdotes, harán fuego sobre el altar y acomodarán leña sobre el fuego."},
+        {"08": "Y los mismos hijos de Aarón, los sacerdotes, dispondrán los trozos, la cabeza y la grasa sobre la leña que está encima del fuego del altar,"},
+        {"09": "y después de lavar en agua sus entrañas y sus patas, el sacerdote lo dejará consumir todo sobre el altar. Es un holocausto, un sacrificio ígneo de olor que apacigua a YHVH."},
+        {"10": "Pero si su ofrenda para el holocausto es del rebaño, de corderos o de chivos, ofrecerá un macho sin defecto."},
+        {"11": "Lo degollará delante de YHVH sobre el flanco del altar, al norte, y los hijos de Aarón, los sacerdotes, rociarán la sangre de aquel sobre el altar, en derredor."},
+        {"12": "Y lo cortará en trozos, los cuales, con su cabeza y su grasa, el sacerdote dispondrá encima de la leña colocada sobre el fuego que hay encima del altar."},
+        {"13": "Se lavarán en el agua las entrañas y las patas, y el sacerdote lo ofrecerá todo dejándolo consumir sobre el altar. Él es un holocausto, sacrificio ígneo de olor que apacigua a YHVH."},
+        {"14": "Y si su ofrenda a YHVH consiste en un holocausto de ave, presentará como ofrenda suya unas tórtolas o pichones."},
+        {"15": "El sacerdote la acercará al altar, y de una uñada le cortará la cabeza, la cual dejará consumir sobre el altar. Después exprimirá su sangre sobre la pared del altar,"},
+        {"16": "le quitará el buche y el plumaje, y lo arrojará a un lado del altar, al oriente, en el lugar de la ceniza."},
+        {"17": "Hendirá la avecilla por entre sus alas, pero no la dividirá, y el sacerdote dejará que se consuma sobre el altar, encima de la leña, sobre el fuego. Es un holocausto, sacrificio ígneo de olor que apacigua a YHVH."}
+    ],
+    "notas": [
+        {"►1.2": "alguno...Lit.adam. Nótese: el destinatario directo de la ley de Dios esel israelita, quien, como oferente (no el sacerdote) es responsable de acercar su propia víctima expiatoria, de imponer sus propias manos sobre ella, de confesar sus propios pecados, para luego, él mismo, degollarla, desollarla y seccionarla;ofrenda...Heb.yaqriv qorván = víctima, ofrenda. Ambas palabras derivan de la raízqarav = aproximarse."},
+        {"►1.5": "deberá degollar...Esto es,el oferente."},
+        {"►1.6": "desollará...Esto es,el oferente."},
+        {"►1.13": "Él es un holocausto...Nótese la inserción del pronombre a diferencia de la ofrenda del becerro →v. 9."},
+        {"►1.14": "pichones...Lit.hijos."},
+        {"►1.15": "uñada...Heb.malaq.Es decir,rasgarle el pescuezoodegollarla con la uña."}
+    ]
+}
