@@ -1,0 +1,39 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/07-rut/c/0/i/23369057/capitulo-03",
+    "archivo": "rut_03.json",
+    "libro": "RUT",
+    "secciones": ["Viejo Pacto"],
+    "capitulo": "03",
+    "versiculos": [
+        {"01": "Le dijo su suegra Noemí: Hija mía, ¿no he de buscar reposo para ti, donde te vaya bien?"},
+        {"02": "Ahora pues, aquel Boaz, con cuyas criadas tú has estado, ¿no es nuestro pariente lejano? He aquí, esta noche avienta la era de la cebada."},
+        {"03": "Lávate, pues, y úngete, y ponte tus mejores vestidos, y baja a la era; pero no te des a conocer al hombre hasta que haya terminado de comer y beber."},
+        {"04": "Y sucederá que cuando se acueste, te fijarás bien en el sitio donde se acuesta, e irás y alzarás la cubierta de sus pies, y te acostarás allí, para que él te diga lo que has de hacer."},
+        {"05": "Y Rut le respondió: Haré todo cuanto me dices."},
+        {"06": "Bajó, pues, a la era, e hizo todo lo que su suegra le había mandado."},
+        {"07": "Y Boaz comió y bebió, y alegrado su corazón, se fue a dormir a un lado del montón, y se acostó allí. Entonces, ella se acercó a escondidas y alzó la cubierta de sus pies, y se acostó allí."},
+        {"08": "Y, en medio de la noche sucedió que el hombre fue estremecido y quedó perplejo: ¡He aquí una mujer dormida a sus pies!"},
+        {"09": "Y le dijo: ¿Quién eres tú? Y ella respondió: Soy Rut, tu sierva; extiende el borde de tu manto sobre tu sierva, porque tú me eres pariente cercano."},
+        {"10": "Y dijo Boaz: ¡Bendita seas de YHVH, hija mía! Has hecho que tu postrera bondad sea mayor que la primera, no yendo tras los jóvenes, sean pobres o ricos."},
+        {"11": "Ahora pues, hija mía, no temas; que yo haré por ti todo cuanto me dices, porque todos los responsables de mi pueblo saben que eres una mujer virtuosa."},
+        {"12": "Pero ahora, aunque en verdad soy pariente cercano, con todo, hay un pariente más cercano que yo."},
+        {"13": "Quédate esta noche, y cuando sea de día, si él quiere redimirte, bien, que te redima; pero si él no quiere redimirte, ¡vive YHVH, yo te redimiré! Acuéstate hasta la mañana."},
+        {"14": "Y durmió a sus pies hasta la mañana, pero se levantó antes que un hombre pudiera reconocer a su vecino, porque Boaz dijo: Que no se sepa que una mujer vino a la era."},
+        {"15": "Y dijo a ella: Trae el ceñidor que llevas encima. Y lo agarró y le midió seis de cebada y las cargó sobre ella, y entró en la ciudad."},
+        {"16": "Cuando volvió a su suegra, esta preguntó: ¿Qué sucedió, hija mía? Y ella le contó todo lo que aquel varón había hecho por ella;"},
+        {"17": "y añadió: Estas seis de cebada me dio, pues dijo: No regreses a tu suegra con las manos vacías."},
+        {"18": "Y esta dijo: Descansa, hija mía, hasta que sepas cómo termina este asunto, porque el hombre no descansará hasta que concluya hoy mismo el asunto."}
+    ],
+    "notas": [
+        {"►3.2": "pariente lejano...Heb. modá tanú. Esto es, prob. pariente lejano."},
+        {"►3.3": "Se inserta mejores para suplir elipsis del original."},
+        {"►3.5": "TM omite Rut y añade yo. Se sigue LXX."},
+        {"►3.7": "y bebió... y se acostó allí... LXX omite. Se sigue TM."},
+        {"►3.9": "extiende... Prob. recíbeme en matrimonio; pariente cercano... Heb. go’el. Del verbo ga’al = reclamar, rescatar, redimir. Es alguien que rescata o libera a otro. Obligación del pariente más cercano para levantar descendencia al fallecido →4.5."},
+        {"►3.11": "responsables... Lit. toda la puerta. Esto es, el consejo de ancianos de la ciudad."},
+        {"►3.14": "reconocer a su vecino... Es decir, antes que pudieran ver a Rut."},
+        {"►3.15": "Se sigue LXX."},
+        {"►3.16": "¿Qué sucedió, hija mía?... Lit. ¿qué te (ha pasado) hija mía?"},
+        {"►3.17": "seis de cebada... Nótese que el texto no registra aquí ni en v. 15 unidad de medida."}
+    ]
+}
