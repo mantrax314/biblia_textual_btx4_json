@@ -1,0 +1,39 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/06-josue/c/0/i/23368279/capitulo-12",
+    "archivo": "josue_12.json",
+    "libro": "JOSUÉ",
+    "secciones": ["Viejo Pacto", "JOSUE-JUECES"],
+    "capitulo": "12",
+    "versiculos": [
+        {"01": "Estos son los reyes de aquella tierra que los hijos de Israel derrotaron, y cuyo territorio conquistaron allende el Jordán, hacia el sol naciente, desde el río Arnón hasta el monte Hermón, y todo el Arabá hacia el oriente:"},
+        {"02": "Sehón, rey del amorreo, que habitaba en Hesbón dominando desde Aroer, junto al torrente, y desde el barranco, por la mitad de Galaad hasta Jaboc, frontera de los hijos de Amón."},
+        {"03": "Y desde la llanura hasta el mar de Kineret, por el oriente, y hasta el mar del Arabá, el mar de la Sal, por el oriente, camino de Hayesimot, y hacia el sur, hasta el pie de las laderas del Pisga."},
+        {"04": "Y Og, rey de Basán, quien había sido dejado como último sobreviviente de los gigantes, quien habitaba en Astarot y en Edrei,"},
+        {"05": "quien dominaba en el monte Hermón, en Salca y en todo Basán, hasta la frontera del gesurita y del maaquita y la mitad de Galaad, hasta el término de Sehón, rey de Hesbón."},
+        {"06": "Estos fueron derrotados por Moisés, esclavo de YHVH, y los hijos de Israel. Y Moisés entregó aquella tierra en posesión a los rubenitas, y a los gaditas, y a la media tribu de Manasés."},
+        {"07": "Estos son los reyes que Josué y los hijos de Israel derrotaron a este lado del Jordán, al occidente, desde Baal-Gad en el valle del Líbano hasta el monte de Halac, que sube a Seir. Josué la dio en posesión a las tribus de Israel según sus repartimientos:"},
+        {"08": "En la serranía y en la llanura, en el Arabá y en las laderas, en el desierto y en el Néguev; el heteo, el amorreo y el cananeo, el ferezeo, el heveo y el jebuseo:"},
+        {"09": "Uno el rey de Jericó otro, el rey de Hai (junto a Bet-El),"},
+        {"10": "otro, rey de Jerusalén, otro, rey de Hebrón,"},
+        {"11": "otro, rey de Jarmut, otro, rey de Laquis,"},
+        {"12": "otro, rey de Eglón, otro, rey de Gezer,"},
+        {"13": "otro, rey de Debir, otro, rey de Geder,"},
+        {"14": "otro, rey de Horma, otro, rey de Arad,"},
+        {"15": "otro, rey de Libna, otro, rey de Adullam,"},
+        {"16": "otro, rey de Maceda,"},
+        {"17": "otro, rey de Tapúa, otro, rey de Hefer,"},
+        {"18": "otro, rey de Afec (del Sarón)"},
+        {"19": "otro, rey de Hazor,"},
+        {"20": "otro, rey de Simrón, otro, rey de Merón, otro, rey de Acsaf,"},
+        {"21": "otro, rey de Cades, otro, rey de Taanac, otro, rey de Meguido,"},
+        {"22": "otro, rey de Jeconam (del Carmelo),"},
+        {"23": "otro, rey de Dor (de Nafed-Dor), otro, rey de Goim (de la Galilea),"},
+        {"24": "otro, rey de Tirsa. Veintinueve reyes en total."}
+    ],
+    "notas": [
+        {"►12.5": "→Nm 21.21-35; Dt 2.26-3.11."},
+        {"►12.6": "→Nm 32.33; Dt 3.12."},
+        {"►12.9-24": "Así se registra en los mss. del TM →Est 9.7 nota."},
+        {"►12.24": "Veintinueve...Se sigue LXX."}
+    ]
+}

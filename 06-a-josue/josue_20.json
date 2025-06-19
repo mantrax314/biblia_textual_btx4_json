@@ -1,0 +1,21 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/06-josue/c/0/i/23368407/capitulo-20",
+    "archivo": "josue_20.json",
+    "libro": "JOSUÉ",
+    "secciones": ["Viejo Pacto", "JOSUE-JUECES"],
+    "capitulo": "20",
+    "versiculos": [
+        {"01": "Y habló YHVH a Josué, diciendo:"},
+        {"02": "Habla a los hijos de Israel, y diles: Asignad las ciudades de refugio, de las cuales os hablé por medio de Moisés,"},
+        {"03": "para que el homicida que mate a alguien por error pueda huir, y aquellas ciudades os sirvan de refugio. Y no será muerto el homicida por el vengador de la sangre,"},
+        {"04-05": "para que comparezca en juicio delante de la congregación."},
+        {"06": "Entonces hicieron apartar a Cedes en Galilea, en la serranía de Neftalí, a Siquem en la serranía de Efraín, y a Quiriat-Arba (que es Hebrón), en la serranía de Judá."},
+        {"07": "Y de la otra parte del Jordán designaron a Beser, en el desierto, en la llanura de la tribu de Rubén, a Ramot, en Galaad, de la tribu de Gad, y a Golán, en Basán, de la tribu de Manasés."},
+        {"08": "Estas son ciudades de refugio señaladas para los hijos de Israel y para el extranjero que habitara en medio de ellos, para que huyera allá todo aquel que quitara la vida por error, a fin de que no pereciera por mano del vengador de la sangre, antes de haber comparecido ante la asamblea."}
+    ],
+    "notas": [
+        {"►20.2": "ciudades de refugio...→Nm 35.6-32; Dt 4.41-43; 19.1-13."},
+        {"►20.3": "el vengador de la sangre...Es decir, el familiar responsable de vengar a su pariente muerto."},
+        {"►20.4-5": "Se sigue LXX. TM añade vv. 4-5 y parte del v. 6."}
+    ]
+}
