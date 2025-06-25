@@ -1,0 +1,40 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/09-b-joel/c/0/i/23682734/capitulo-01",
+    "archivo": "joel_01.json",
+    "libro": "JOEL",
+    "secciones": ["Viejo Pacto", "ABDIAS-JOEL-JONAS"],
+    "capitulo": "01",
+    "versiculos": [
+        {"01": "Palabra de YHVH dirigida a Joel ben Petuel:"},
+        {"02": "¡Oíd esto, oh ancianos! ¡Dad oído, moradores todos de esta tierra! ¿Aconteció esto en vuestros días, o en días de vuestros padres?"},
+        {"03": "De esto contaréis a vuestros hijos, Y vuestros hijos a sus hijos, Y sus hijos a la otra generación:"},
+        {"04": "Lo que dejó la langosta lo comió el saltón, Lo que dejó el saltón lo comió el saltamontes, Y lo que dejó el saltamontes lo comió el cigarrón."},
+        {"05": "¡Despertad, borrachos, y llorad! ¡Gemid, bebedores todos! Porque el licor os es quitado de la boca,"},
+        {"06": "Porque un pueblo fuerte e innumerable invade mi tierra, Tiene colmillos de león y quijadas de leona,"},
+        {"07": "Arruinó mi viña y desgajó mi higuera, Rebuscó en ella y la derribó, Y ha dejado pelados sus sarmientos."},
+        {"08": "¡Laméntate cual doncella ceñida de saco por el marido de su juventud!"},
+        {"09": "El sacrificio y la libación se ha quitado de la Casa de YHVH, Y los sacerdotes que sirven al altar de YHVH se lamentan."},
+        {"10": "El campo está asolado, La tierra está de luto por el trigo devastado, El mosto ha sido consumido y el aceite está agotado."},
+        {"11": "¡Oh labriegos, sed avergonzados! ¡Llorad por vuestras heredades! Por el trigo y la cebada, Porque la mies del campo se ha perdido."},
+        {"12": "La vid fue desecada, y la higuera marchitada, Lo mismo el granado, la palmera, y el manzano, Todo árbol del campo ha sido resecado Y hasta el gozo de los hombres se ha agotado."},
+        {"13": "¡Vestíos de luto, oh sacerdotes! ¡Gemid, servidores del altar! ¡Pernoctad en saco, siervos de Elohim! Porque el sacrificio y la libación se ha quitado de la casa de vuestro Elohim."},
+        {"14": "¡Proclamad ayuno santo! ¡Convocad a solemne asamblea! Reunid a los ancianos, Y a todos los moradores de esta tierra en la Casa de vuestro Elohim, Y clamad a YHVH."},
+        {"15": "¡Ay de ese día! Porque cercano está el día de YHVH, Llegará como destrucción de Shadday."},
+        {"16": "¿No es arrebatado el alimento ante nuestra vista? ¿No han sido quitados la alegría, Y el júbilo de la Casa de nuestro Elohim?"},
+        {"17": "Las becerras, hambrientas en sus corrales, Los alfolíes, devastados, Los graneros, destruidos, Porque el grano fue esparcido."},
+        {"18": "¡Cómo muge el ganado! La vacada está inquieta porque no tiene pastos, Y los rebaños de las ovejas lo pagan."},
+        {"19": "¡A Ti clamo, oh YHVH! Porque el fuego devoró hasta los pastos de la estepa, Y la llama ha abrasado todos los árboles del campo."},
+        {"20": "También las bestias del campo braman a Ti, Porque los cauces de agua fueron secados, Y el fuego devoró hasta los pastos de la estepa."}
+    ],
+    "notas": [
+        {"►1.4": "dejó... Lit. el resto de; cigarrón... Es difícil determinar el sentido exacto de los cuatro nombres de insectos que aparecen aquí. Prob. se trata de los nombres de cuatro tipos o especies de langosta, pero en otros contextos de la Escritura se usan algunos de estos términos aisladamente para aludir a la langosta en general. Otra posibilidad es ver una referencia a las distintas fases biológicas por las que pasa este insecto, aunque estos mismos términos se usan en un orden distinto →2.25. Otra interpretación posible consiste en ver tres de estos cuatro nombres (langosta, saltamontes y cigarrón) como alusiones a distintas funciones de este insecto como roedor, lamedor y devorador. Pero ninguna de estas tres interpretaciones es definitiva."},
+        {"►1.7": "desgajó... Otra traducción posible: en ramaje seco; sarmientos... Al acabar con el follaje de los árboles, la plaga de langostas deja blancas sus ramas."},
+        {"►1.8": "doncella... El término hebreo betulah designa a una joven en edad de casarse. Aunque algunos léxicos traducen la palabra como virgen (y aunque en algunos contextos tal traducción puede ser totalmente acertada), hay que tener en cuenta que betulah no tiene un significado tan específico como el término castellano virgen (que solo se refiere a la persona que no ha tenido relaciones sexuales) →Is 7.14; saco... Vestidura o tela áspera, generalmente de color oscuro y hecha de pelo de cabra o de camello. La usaban aquellos que estaban de duelo o que querían expresar contrición, para lo cual se ceñían dicha tela sobre el cuerpo (dejando, generalmente un hueco a la altura del pecho, para poder golpeárselo), o bien se sentaban o dormían sobre la tela. →2 S 3.31; 2 R 6.30; Est 4.3."},
+        {"►1.10": "mosto... Se refiere específicamente al vino nuevo; aceite... Prob. se refiere al aceite fresco, no procesado, que proviene del fruto del olivo."},
+        {"►1.13": "saco... →1.8 nota."},
+        {"►1.14": "Casa... TM añade YHVH. Se sigue LXX →§194."},
+        {"►1.15": "Shadday... Fonetismo: shod-Shadday, destrucción-Todopoderoso."},
+        {"►1.17": "esparcido... Prob. se refiera al grano. Tres de las cuatro palabras que forman esta frase en hebreo son hápax."},
+        {"►1.18": "pagan... LXX: han sido asolados."}
+    ]
+}
