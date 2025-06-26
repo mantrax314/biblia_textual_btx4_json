@@ -1,0 +1,20 @@
+{
+  "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/10-b-miqueas/c/0/i/23701809/capitulo-01",
+  "archivo": "miqueas_01.json",
+  "libro": "MIQUEAS",
+  "secciones": ["Viejo Pacto", "AMOS-MIQUEAS-OSEAS-NAHUM"],
+  "capitulo": "01",
+  "versiculos": [
+    {"01": "La visión1 Revelación de YHVH que tuvo Miqueas morastita, en días de Jotam, de Acaz y de Ezequías, reyes de Judá, cuya visión concernía a Samaria y a Jerusalén."},
+    {"02": "¡Escuchad, pueblos todos!Atiende, oh tierra, y cuanto hay en ti,Adonai YHVH sea testigo contra vosotros,Sí, Adonai desde su santo templo."},
+    {"03": "¡Mirad! ¡YHVH sale de su lugar!¡Desciende para hollar las alturas de la tierra!"},
+    {"04": "Debajo de Él, las montañas se derriten como cera junto al fuego,Los valles se resquebrajan como agua precipitada por la torrentera."},
+    {"05": "Todo por la transgresión de Jacob, todo por los pecados de Israel.¿Cuál es la rebelión de Jacob?No puede ser sino Samaria.¿Y cuáles son los altos de Judá?No puede ser sino Jerusalén."}
+  ],
+  "notas": [
+    {"1.1": "morastita...Habitante de Moreset-Gat. Aldea al SO de Jerusalén;reyes de Judá...El espacio de los tres reinados va desde el 740 al 698 a.C."},
+    {"1.9": "llaga...Esto es,la llaga de la lepra(símbolo del pecado de Samaria) →Os 7.9."},
+    {"1.11": "Sal...Esto es,al cautiverio."},
+    {"1.15": "Adulam...→1 S 22.1."}
+  ]
+}
