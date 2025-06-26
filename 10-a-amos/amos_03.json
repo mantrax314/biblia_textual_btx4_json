@@ -1,0 +1,35 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/10-amos/c/0/i/23973630/capitulo-03",
+    "archivo": "amos_03.json",
+    "libro": "AMOS",
+    "secciones": ["Viejo Pacto", "AMOS-MIQUEAS-OSEAS-NAHUM"],
+    "capitulo": "03",
+    "versiculos": [
+        {"01": "¡Oh hijos de Israel! Escuchad la palabra que YHVH habla contra vosotros, Contra toda tribu que saqué de la tierra de Egipto:"},
+        {"02": "Solo a vosotros os conocí entre todas las tribus de la tierra, Por eso os pasaré cuentas de todas vuestras iniquidades."},
+        {"03": "¿Andarán dos juntos sin estar de acuerdo?"},
+        {"04": "¿Rugirá el león en la espesura sin que haya presa? ¿Rugirá el leoncillo en su guarida sin haber apresado?"},
+        {"05": "¿Caerá el pájaro al suelo si no hay pajarero? ¿Saltará la trampa del suelo sin haber atrapado?"},
+        {"06": "¿Se soplará el shofar en la ciudad sin que el pueblo se alborote? ¿Sucederá alguna calamidad en la ciudad sin que YHVH la haya enviado?"},
+        {"07": "Así, nada hará Adonai YHVH sin revelar su plan a sus siervos los profetas."},
+        {"08": "Si el león ruge, ¿quién no temerá? Si Adonai YHVH habla, ¿quién no profetizará?"},
+        {"09": "Proclamad por los palacios de Asdod, Decid en los palacios de Egipto: Reuníos en el monte de Samaria, Ved el tumulto en medio de ella, y la opresión en su interior."},
+        {"10": "No saben hacer lo recto, dice YHVH, Atesoran en sus palacios frutos de rapiña y de saqueo."},
+        {"11": "Por eso, así dice Adonai YHVH: Un enemigo vendrá y rodeará la tierra, Derribará tu fuerza y saqueará tus palacios."},
+        {"12": "Así dice YHVH: Como el pastor rescata de las fauces del león un par de patas, O la punta de una oreja, Así serán rescatados los hijos de Israel que habitan en Samaria: Cual esquinero de un reclinatorio, Cual astilla de la pata de una cama."},
+        {"13": "Oíd y testificad a la casa de Jacob, Dice Adonai YHVH, Elohey Sebaot:"},
+        {"14": "Cuando pase cuenta de sus delitos a Israel, Le pediré cuenta de los altares de Bet-El, Los cuernos del altar serán arrancados y caerán a tierra."},
+        {"15": "Destruiré la casa de invierno y la casa de verano, Perecerán los palacios de marfil, Y las grandes casas desaparecerán, dice YHVH."}
+    ],
+    "notas": [
+        {"►3.1": "hijos...LXX registra casa."},
+        {"►3.2": "os conocí...Esto es, escogero seleccionar a alguien; os pasaré cuentas...Lit. visitaré sobre vosotros."},
+        {"►3.3": "de acuerdo...→Hch 15.36-40."},
+        {"►3.5": "del suelo...Lit. en el lazo de tierra. LXX: caerá un ave en tierra; sin haber atrapado...Lit. y apresar no apresará."},
+        {"►3.6": "soplará...En señal de alarma o de peligro →2.2 nota."},
+        {"►3.9": "de Asdod...LXX: entre los asirios; el monte...TM: los montes. Se sigue LXX y Sir."},
+        {"►3.11": "Adonai...Sir. omite; rodeará...Lit. alrededor."},
+        {"►3.12": "La mayoría de versiones traducen: Como el pastor rescata de la boca del león dos patas o un pedazo de oreja, así serán rescatados los hijos de Israel que se sientan en Samaria, en la esquina de una cama y en el damasco de un sofá. Pero esta propuesta no refleja prótasis y apódosis: un par de patas = esquinero del reclinatorio; la punta de una oreja = la astilla de la pata de una cama."},
+        {"►3.14": "pase cuenta...Lit. el día de mi visitar."}
+    ]
+}

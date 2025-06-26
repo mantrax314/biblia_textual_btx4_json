@@ -1,0 +1,35 @@
+{
+    "url_btx": "https://btx4-juan.sociedadbiblicaiberoamericana.net/10-amos/c/0/i/23701802/capitulo-01",
+    "archivo": "amos_01.json",
+    "libro": "AMOS",
+    "secciones": ["Viejo Pacto", "AMOS-MIQUEAS-OSEAS-NAHUM"],
+    "capitulo": "01",
+    "versiculos": [
+        {"01": "Palabras de Amós, uno de los pastores de Tecoa. Lo que vio en Jerusalén en días de Uzías, rey de Judá, y en días de Jeroboam ben Joás, rey de Israel, dos años antes del terremoto."},
+        {"02": "¡YHVH ruge desde Sión! Desde Jerusalén dio su voz y los pastos de los pastores endecharon y la cumbre del Carmelo fue agostada."},
+        {"03": "Así dice YHVH: Por tres impiedades de Damasco no revocaré, sino por la cuarta: Porque con serruchos de dientes de hierro aserraban a las grávidas en Galaad,"},
+        {"04": "Enviaré un fuego a la casa de Hazael y se devorará los fundamentos de Ben-Hadad."},
+        {"05": "Quebraré la barra de Damasco, y exterminaré a los habitantes de Bicat-Avén y al que empuña el cetro de Bet-Edén, y el pueblo de Aram irá desterrado a Kir, dice YHVH."},
+        {"06": "Así dice YHVH: Por tres impiedades de Gaza no revocaré, sino por la cuarta: Porque llevaron cautivo el cautiverio de Salomón para encerrarlos en Edom,"},
+        {"07": "Enviaré un fuego sobre los muros de Gaza y se devorará sus fundamentos,"},
+        {"08": "Exterminaré los habitantes de Azoto y al que empuña el cetro de Ascalón, volveré mi mano contra Ecrón, y el residuo de los filisteos perecerá, dice Adonai YHVH."},
+        {"09": "Así dice YHVH: Por tres impiedades de Tiro no revocaré, sino por la cuarta: Porque encerraron al cautiverio de Salomón en Edom, y no se acordaron del pacto fraterno,"},
+        {"10": "Enviaré un fuego sobre los muros de Tiro y se devorará sus fundamentos."},
+        {"11": "Así dice YHVH: Por tres impiedades de Edom no revocaré, sino por la cuarta: Porque persiguió a su hermano a cuchillo, para destruir la matriz de sobre la tierra y arrebatar el testimonio, retuvo perpetuamente su furia y guarda su rencor hasta el fin."},
+        {"12": "Enviaré un fuego sobre Temán que devorará hasta los fundamentos de sus muros."},
+        {"13": "Así dice YHVH: Por tres impiedades de los hijos de Amón no revocaré, sino por la cuarta, porque rajaron a las grávidas de Galaad para ensanchar sus confines."},
+        {"14": "Encenderé, pues, un fuego sobre los muros de Rabá y se devorará sus fundamentos, entre alaridos del día de batalla, entre la tempestad del día huracanado,"},
+        {"15": "Y sus reyes irán al cautiverio, y sus sacerdotes y sus príncipes con ellos, dice YHVH."}
+    ],
+    "notas": [
+        {"►1.1": "en Jerusalén. Se sigue LXX; terremoto...→Zac 14.5."},
+        {"►1.2": "Ruge YHVH...En porciones poéticas, más importante que la división versicular es la rítmica. Esta disposición se refleja de modo ecléctico TM⇄LXX."},
+        {"►1.3": "por tres...Es decir,por todas;no revocaré...Esto es,mi castigo→1.6, 9, 11, 13; 2.1, 4, 6."},
+        {"►1.5": "la barra...Esto es,la gran viga que “trancaba” las puertas de la ciudad;Bicat-Avén...Esto es,valle de Iniquidad. Nombre de una ciudad hoy desconocida. Prob. forma despectiva para referirse a Damasco u otra de las ciudades arameas más importantes."},
+        {"►1.6": "el cautiverio...Lit.un cautiverio."},
+        {"►1.8": "Adonai...LXX omite. Se sigue TM."},
+        {"►1.9": "Edom...Otra traducción posible:Aram;pacto fraterno...Alianza entre Israel y Tiro desde tiempos de Salomón →1 R 5.12; 2 Cr 2.11-12."},
+        {"►1.11": "retuvo perpetuamente su furia...Lit.destruyó su compasión; VUL y Sir.:mantuvo su ira para siempre."},
+        {"►1.14": "alaridos...Esto es,gritos de guerra(otoques de trompeta)de alarma;huracanado...Esto es,tormenta de viento."}
+    ]
+}
